@@ -52,8 +52,8 @@ function App() {
           <br />
           <span className="highlight">Recipe AI</span>
         </h1>
-        <h2> made by <strong>Austin Yaroslaski</strong></h2>
-        <h5>~Fall 2024 CSCE 3420~</h5>
+        <h2 className="main-header"> made by <strong>Austin Yaroslaski</strong></h2>
+        <h5 className="main-header">~Fall 2024 CSCE 3420~</h5>
         <p className="description">
           Simply type a few ingredients using the format ingredient1,
           ingredient2, etc., and Recipe AI will generate an all-new recipe on
